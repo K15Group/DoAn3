@@ -1,5 +1,5 @@
 # DSDH-HashingCode
-Báo cáo và file PPT được lưu dưới tên ProJectReprt_PPT.
+Báo cáo và file PPT được lưu dưới tên ProJectReport_PPT.
 
 Source code của bài báo Deep Supervised Discrete Hashing (https://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf)
 Qi Li, Zhenan Sun, Ran He and Tieniu Tan.
