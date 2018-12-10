@@ -1,4 +1,5 @@
 # DSDH-HashingCode
+Báo cáo và file PPT được lưu dưới tên ProJectReprt_PPT
 Source code của bài báo Deep Supervised Discrete Hashing (https://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf)
 Qi Li, Zhenan Sun, Ran He and Tieniu Tan.
 Source code chạy thử dựa trên tập dữ liệu CIFAR-10 với sự hỗ trợ của DSDH thuật toán. Thông tin chi tiết vui lòng liên hệ (https://cs.nju.edu.cn/lwj/).
@@ -25,3 +26,4 @@ Giai đoạn 2:
       - Sau khi hoàn thành các bước trên, tiến hafnnh giải nén MatConvNet và thực hiện các bước theo trang sau để khởi động thư viện http://www.vlfeat.org/matconvnet/install/
   
 2.Sau khi cài đặt hoàn tất MatConvNet, chạy main.m trên matlab để kiểm thử.
+
